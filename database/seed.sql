@@ -1,0 +1,3 @@
+-- Não há usuários de demonstração inseridos neste arquivo.
+-- Ao ativar o backend, crie as contas com hashes de senha gerados por uma
+-- biblioteca de autenticação segura; nunca armazene senhas em texto puro.
